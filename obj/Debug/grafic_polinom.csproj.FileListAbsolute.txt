@@ -1,0 +1,62 @@
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.exe.config
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.exe
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.pdb
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csprojResolveAssemblyReference.cache
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.Form1.resources
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.Properties.Resources.resources
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csproj.GenerateResource.Cache
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.exe
+c:\users\sam\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.pdb
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.exe.config
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.exe
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\bin\Debug\grafic_polinom.pdb
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csprojResolveAssemblyReference.cache
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.Form1.resources
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.Properties.Resources.resources
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csproj.GenerateResource.Cache
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.exe
+C:\Users\Cip\source\repos\grafic_polinom\grafic_polinom\obj\Debug\grafic_polinom.pdb
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.exe.config
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.exe
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.pdb
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csprojAssemblyReference.cache
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.Form1.resources
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.Properties.Resources.resources
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csproj.GenerateResource.cache
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.exe
+C:\Users\Bianca\Downloads\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.pdb
+D:\apps\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.exe.config
+D:\apps\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.exe
+D:\apps\grafic_polinom c#\grafic_polinom\bin\Debug\grafic_polinom.pdb
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csprojAssemblyReference.cache
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.Form1.resources
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.Properties.Resources.resources
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csproj.GenerateResource.cache
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.exe
+D:\apps\grafic_polinom c#\grafic_polinom\obj\Debug\grafic_polinom.pdb
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\bin\Debug\grafic_polinom.exe.config
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\bin\Debug\grafic_polinom.exe
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\bin\Debug\grafic_polinom.pdb
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.csprojAssemblyReference.cache
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.Form1.resources
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.Inceput.resources
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.Properties.Resources.resources
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.csproj.GenerateResource.cache
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.exe
+D:\apps\grafic_polinom c#\grafic_polinom - Copy\obj\Debug\grafic_polinom.pdb
+D:\C#\apps\GraficPolinom\bin\Debug\grafic_polinom.exe.config
+D:\C#\apps\GraficPolinom\bin\Debug\grafic_polinom.exe
+D:\C#\apps\GraficPolinom\bin\Debug\grafic_polinom.pdb
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.csprojAssemblyReference.cache
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.Form1.resources
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.Inceput.resources
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.Properties.Resources.resources
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.csproj.GenerateResource.cache
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.csproj.CoreCompileInputs.cache
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.exe
+D:\C#\apps\GraficPolinom\obj\Debug\grafic_polinom.pdb
